@@ -24,11 +24,7 @@ python pyClicker.py
 
 3. Press the start key to start the clicking process. 
 
-4. Press the stop key to stop the clicking process. 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+4. Press the stop key to stop the clicking process.
 
 ## Author
 
